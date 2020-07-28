@@ -1,2 +1,12 @@
-# budget-app
-Budgeting app, pure JS and the DOM
+## Budget app.
+
+See: https://amashuroff.github.io/budget-app/
+
+### Features:
+
+Add and delete expenses or income. 
+___
+
+### Technologies:
+* Javascript
+* DOM
