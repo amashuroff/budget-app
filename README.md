@@ -1,6 +1,6 @@
 ## Budget app.
 
-See: https://amashuroff.github.io/budget-app/
+See: https://amashuroff.github.io/budget-app-practice/
 
 ### Features:
 
